@@ -1,4 +1,5 @@
 # IMPgame
+# Teammitglieder: Max Manser, nicht Kian, Davide
 # Spielidee
 # ein Trainer, mit dem man seine Reaktionsfähigikeit und Zielgenauigkeit verbessern kann
 # Kreise erscheinen auf dem Bidschirm die man anklicken muss 
